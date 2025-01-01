@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telecom_Microservice", "Telecom_Microservice\Telecom_Microservice.csproj", "{FB21BBE5-C6B1-4A28-B241-9A9116D85FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB21BBE5-C6B1-4A28-B241-9A9116D85FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB21BBE5-C6B1-4A28-B241-9A9116D85FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB21BBE5-C6B1-4A28-B241-9A9116D85FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB21BBE5-C6B1-4A28-B241-9A9116D85FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

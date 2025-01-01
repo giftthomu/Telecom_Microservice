@@ -1,0 +1,6 @@
+@Telecom_Microservice_HostAddress = http://localhost:5118
+
+GET {{Telecom_Microservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
